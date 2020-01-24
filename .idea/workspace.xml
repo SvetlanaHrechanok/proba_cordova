@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0401253f-1314-4c1e-9729-dc5077f84af3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/exchangerate.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/exchangerate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="proba_cordova" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1V48L6TtiTo3frQUIhh23Dy7lFB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="proba_cordova" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.phonegap.settings.workdir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExchangeRateApplication" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/js" />
+      <recent name="$PROJECT_DIR$/www/img" />
+      <recent name="$PROJECT_DIR$/www/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="PhoneGap/Cordova run" type="PhoneGap" factoryName="PhoneGap/Cordova">
+      <option name="myExecutable" value="/usr/local/bin/cordova" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="run" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="browser" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="false" />
+      <option name="target" value="" />
+      <method v="2">
+        <option name="PhonegapTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="PhoneGap/Cordova.PhoneGap/Cordova run" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0401253f-1314-4c1e-9729-dc5077f84af3" name="Default Changelist" comment="" />
+      <created>1576500947657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576500947657</updated>
+      <workItem from="1576500953247" duration="4760000" />
+      <workItem from="1576574940312" duration="2481000" />
+      <workItem from="1576579712655" duration="1222000" />
+      <workItem from="1576582235040" duration="312000" />
+      <workItem from="1576582634037" duration="461000" />
+      <workItem from="1576583167581" duration="790000" />
+      <workItem from="1576585743678" duration="13000" />
+      <workItem from="1576586103242" duration="157000" />
+      <workItem from="1576586872540" duration="115000" />
+      <workItem from="1576587132147" duration="40000" />
+      <workItem from="1576587183075" duration="41000" />
+      <workItem from="1576587236144" duration="32000" />
+      <workItem from="1576587501914" duration="490000" />
+      <workItem from="1576588002556" duration="195000" />
+      <workItem from="1576588260910" duration="341000" />
+      <workItem from="1576588613690" duration="1140000" />
+      <workItem from="1576589891536" duration="1521000" />
+      <workItem from="1576591621223" duration="1430000" />
+      <workItem from="1576649598116" duration="1261000" />
+      <workItem from="1576650953160" duration="1191000" />
+      <workItem from="1576652357359" duration="422000" />
+      <workItem from="1576652968925" duration="1652000" />
+      <workItem from="1576654884426" duration="758000" />
+      <workItem from="1576656024539" duration="12604000" />
+      <workItem from="1576677445428" duration="1495000" />
+      <workItem from="1576679072557" duration="331000" />
+      <workItem from="1576737129570" duration="471000" />
+      <workItem from="1576737617012" duration="6928000" />
+      <workItem from="1576749204899" duration="1225000" />
+      <workItem from="1576751423796" duration="3571000" />
+      <workItem from="1576755106604" duration="8244000" />
+      <workItem from="1576763584778" duration="2616000" />
+      <workItem from="1576821545679" duration="11612000" />
+      <workItem from="1576834234040" duration="620000" />
+      <workItem from="1576834929954" duration="1401000" />
+      <workItem from="1576836761248" duration="201000" />
+      <workItem from="1576837115973" duration="14069000" />
+      <workItem from="1577085028997" duration="2307000" />
+      <workItem from="1577087419969" duration="12967000" />
+      <workItem from="1577105047341" duration="7410000" />
+      <workItem from="1577167605612" duration="16944000" />
+      <workItem from="1577341460872" duration="15939000" />
+      <workItem from="1577368663889" duration="606000" />
+      <workItem from="1577431509456" duration="10594000" />
+      <workItem from="1577685969224" duration="20730000" />
+      <workItem from="1577773515816" duration="5808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

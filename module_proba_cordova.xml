@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_proba_cordova" default="compile.module.proba_cordova">
+  <dirname property="module.proba_cordova.basedir" file="${ant.file.module_proba_cordova}"/>
+  
+  <property name="module.jdk.home.proba_cordova" value=""/>
+  <property name="module.jdk.bin.proba_cordova" value=""/>
+  <property name="module.jdk.classpath.proba_cordova" value=""/>
+  
+  <property name="compiler.args.proba_cordova" value="-encoding UTF-8 -source 12 -target 12 ${compiler.args}"/>
+  
+  <property name="proba_cordova.output.dir" value="${module.proba_cordova.basedir}/out/production/proba_cordova"/>
+  <property name="proba_cordova.testoutput.dir" value="${module.proba_cordova.basedir}/out/test/proba_cordova"/>
+  
+  <path id="proba_cordova.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="proba_cordova.module.production.classpath"/>
+  
+  <path id="proba_cordova.runtime.production.module.classpath">
+    <pathelement location="${proba_cordova.output.dir}"/>
+  </path>
+  
+  <path id="proba_cordova.module.classpath">
+    <pathelement location="${proba_cordova.output.dir}"/>
+  </path>
+  
+  <path id="proba_cordova.runtime.module.classpath">
+    <pathelement location="${proba_cordova.testoutput.dir}"/>
+    <pathelement location="${proba_cordova.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.proba_cordova">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.proba_cordova">
+    <patternset refid="excluded.from.module.proba_cordova"/>
+  </patternset>
+  
+  
+  <target name="compile.module.proba_cordova" depends="compile.module.proba_cordova.production,compile.module.proba_cordova.tests" description="Compile module proba_cordova"/>
+  
+  <target name="compile.module.proba_cordova.production" depends="register.custom.compilers" description="Compile module proba_cordova; production classes"/>
+  
+  <target name="compile.module.proba_cordova.tests" depends="register.custom.compilers,compile.module.proba_cordova.production" description="compile module proba_cordova; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.proba_cordova" description="cleanup module">
+    <delete dir="${proba_cordova.output.dir}"/>
+    <delete dir="${proba_cordova.testoutput.dir}"/>
+  </target>
+</project>

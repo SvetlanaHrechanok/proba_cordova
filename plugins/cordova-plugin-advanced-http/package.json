@@ -1,0 +1,154 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-advanced-http",
+      "/home/svetlana/IdeaProjects/proba_cordova"
+    ]
+  ],
+  "_from": "cordova-plugin-advanced-http@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-advanced-http@2.3.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-advanced-http",
+  "_nodeVersion": "10.17.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-advanced-http_2.3.1_1576294593714_0.7936419435147362"
+  },
+  "_npmUser": {
+    "email": "sefa@ilkimen.de",
+    "name": "silkimen"
+  },
+  "_npmVersion": "6.13.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-advanced-http",
+    "raw": "cordova-plugin-advanced-http",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-advanced-http/-/cordova-plugin-advanced-http-2.3.1.tgz",
+  "_shasum": "8d55753ed2adf5a7bf9224d407844a63b99dd448",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-advanced-http",
+  "_where": "/home/svetlana/IdeaProjects/proba_cordova",
+  "author": {
+    "name": "Wymsee"
+  },
+  "bugs": {
+    "url": "https://github.com/silkimen/cordova-plugin-advanced-http/issues"
+  },
+  "contributors": [
+    {
+      "name": "devgeeks"
+    },
+    {
+      "name": "EddyVerbruggen"
+    },
+    {
+      "name": "mbektchiev"
+    },
+    {
+      "name": "denisbabineau"
+    },
+    {
+      "name": "andrey-tsaplin"
+    },
+    {
+      "name": "pvsaikrishna"
+    },
+    {
+      "name": "cvillerm"
+    },
+    {
+      "name": "hideov"
+    },
+    {
+      "name": "Mobisys"
+    }
+  ],
+  "cordova": {
+    "id": "cordova-plugin-advanced-http",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning",
+  "devDependencies": {
+    "chai": "4.1.2",
+    "chai-as-promised": "7.1.1",
+    "colors": "1.1.2",
+    "cordova": "8.1.2",
+    "mocha": "4.0.0",
+    "mock-require": "2.0.2",
+    "mz": "2.7.0",
+    "umd-tough-cookie": "2.4.3",
+    "wd": "1.4.1",
+    "xml2js": "0.4.19"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 68,
+    "integrity": "sha512-8GbxrzBN7RTCwdBsVW0g+O7NmKX3M6zALessmm/66qOA/jO+pSd1BQg+abbAMBArRnI0ITOIjEsChjwIjFS06w==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJd9FjCCRA9TVsSAnZWagAAjQkP/39J+DNFP9bGwE6bwjQg\nTf7z409fK1XA9RRmYk/ZWhIC1dpIxBreF7Dc9Oy2HhS+4iA11l1mp9GwPM4U\n2CRSR4huT5rqgplxPaS9QOEUJ7Sy1ODqUHgSAcI5WAQuYWzJmIC9VC+4Yrzs\nsgbSskhC1Kw07yOU/8Z7oWRQqdCk2jQVkHnjFouqvpmHG4uyVN5W8CM5SizI\nVWibkzBXsCXep0E6T9Gb5b4wIOxEHx7hVqXbN+TewJzfWr4KucdUYlwP6jEG\nyKM1GT0m5bf/ub2RLr4E2j5RTSZqHay7/fShapbkQeZgnSPlhzFziHjLyT8g\nnB9KTevyM+G+RpdiCqCL0G8qTRUVgGao4hhllPHuQyYdqw5E7be6AtDQsmFz\nLLoYn/w6KdqpCtXUFARAilI+1pMaQDySb3Fog8SolRc624JO3vluFwo1HPFE\nSrAzhtw8+0NCP9JoJDYQPuBlwV9VNyd11Yw7OF9F4w97OSczj8OWIeiFcUBu\nFhuJ6l8nqhCk9OV7nHka8F1zMuaRWUFpQalMGj0PbwXmdfUfkPq2qPSZHMKD\nuiWto745b3XG4Wnp7ICEde9GoRnuUnQqeIKEfNdjPjvMhqlN4G2X9kprgQzD\nG6jZx6pVcupfn5JaytK11A8hVuuz8sHp0ad+6TsA6avSgyV3Pl5vO/QfQEAd\nZX6Q\r\n=1dlO\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "8d55753ed2adf5a7bf9224d407844a63b99dd448",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-advanced-http/-/cordova-plugin-advanced-http-2.3.1.tgz",
+    "unpackedSize": 818748
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "gitHead": "a4f121728cc98dcf46cf7aa38c262957a03bcf14",
+  "homepage": "https://github.com/silkimen/cordova-plugin-advanced-http#readme",
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "device",
+    "ecosystem:cordova",
+    "ssl",
+    "tls"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "jkfb",
+      "email": "jbgh@posteo.mx"
+    },
+    {
+      "name": "silkimen",
+      "email": "sefa@ilkimen.net"
+    }
+  ],
+  "name": "cordova-plugin-advanced-http",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silkimen/cordova-plugin-advanced-http.git"
+  },
+  "scripts": {
+    "buildandroid": "./scripts/build-test-app.sh --android --emulator",
+    "buildbrowser": "./scripts/build-test-app.sh --browser",
+    "buildios": "./scripts/build-test-app.sh --ios --emulator",
+    "release": "npm run test && ./scripts/release.sh",
+    "test": "npm run testjs && npm run testapp",
+    "testandroid": "npm run updatecert && npm run buildandroid && ./scripts/test-app.sh --android --emulator",
+    "testapp": "npm run testandroid && npm run testios",
+    "testios": "npm run updatecert && npm run buildios && ./scripts/test-app.sh --ios --emulator",
+    "testjs": "mocha ./test/js-specs.js",
+    "updatecert": "node ./scripts/update-e2e-server-cert.js && node ./scripts/update-e2e-client-cert.js"
+  },
+  "version": "2.3.1"
+}
